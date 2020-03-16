@@ -9,3 +9,6 @@ I designed the sun and planets to look as appealing as possible on a black backg
 
 I obtained the space ship from this link:https://pixabay.com/en/fighter-sci-fi-spaceship-tv-series-2024613/
 And the image of Kanna that I edited was obtained from this link: https://goo.gl/images/wMNaqs
+
+
+Due to the size of files, only the bin, src, and addons.make are included. So it is necessary to import these files into a new, empty OpenFrameworks projects.
